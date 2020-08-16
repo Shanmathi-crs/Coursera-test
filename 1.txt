@@ -1,0 +1,70 @@
+h1{  text-align: center;}
+body{	margin: 5%;}
+/*desktop*/
+@media(min-width: 992px)
+{.l1{float:left;   width:250px;   position:relative;   height:220px;   margin-right:140px;   margin-top:30px;
+background-color:gray;   border:2px solid black;   padding:10px;}
+	div.first{
+	position: absolute;		border: 2px solid black;
+	background-color: pink;	height: 25px;
+	width: 60px; right:0; top:0; 
+	}
+	div.second{
+	position: absolute;	border: 2px solid black;
+	background-color: yellow;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+	div.third{
+	position: absolute;	border: 2px solid black;
+	background-color: red;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+}
+/*tablet*/
+@media(min-width: 768px) and (max-width: 991px)
+{
+.m1{float:left;   width:250px;   position:relative;   height:220px;   margin-right:140px;   margin-top: 30px;
+background-color:gray;   border:2px solid black;   padding:10px;}
+	div.first{
+	position: absolute;		border: 2px solid black;
+	background-color: pink;	height: 25px;
+	width: 60px; right:0; top:0;
+	}
+	div.second{
+	position: absolute;	border: 2px solid black;
+	background-color: yellow;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+	div.third{
+	position: absolute;	border: 2px solid black;
+	background-color: red;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+}
+/*mobile*/
+@media(max-width: 767px)
+{
+.s1{float:left;   width:250px;   position:relative;   height:220px;   margin-right:140px;   margin-top: 30px;
+background-color:gray;   border:2px solid black;   padding: 10px;}
+div.first{
+	position: absolute;		border: 2px solid black;
+	background-color: pink;	height: 25px;
+	width: 60px; right:0; top:0;
+	}
+div.second{
+	position: absolute;	border: 2px solid black;
+	background-color: yellow;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+div.third{
+	position: absolute;	border: 2px solid black;
+	background-color: red;	height: 25px;
+	width: 80px;
+	right:0; top:0;
+	}
+}

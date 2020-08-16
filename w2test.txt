@@ -1,0 +1,25 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="1.css">
+		<meta charset="utf-8">
+		<title>Assignment Solution for Module 2</title>
+	</head>
+	<body>
+		<h1>Our Menu</h1>
+		<div class="row">
+			
+			<div class="l1 m1 s1">
+			<div class = "first"> FIRST </div>
+			<p>During the 9th century, the Chola dynasty was once again revived by Vijayalaya Chola, who established Thanjavur as Chola's new capital by conquering central Tamil Nadu from Mutharaiyar and the Pandya king Varagunavarman II. Aditya I and his son Parantaka I expanded the kingdom to the northern parts of Tamil Nadu by defeating the last Pallava king, Aparajitavarman.</p></div>
+
+			<div class="l1 m1 s1">
+			<div class= "second"> SECOND </div>
+			<p>During the 10th century, the Chola dynasty was once again revived by Vijayalaya Chola, who established Thanjavur as Chola's new capital by conquering central Tamil Nadu from Mutharaiyar and the Pandya king Varagunavarman II. Aditya I and his son Parantaka I expanded the kingdom to the northern parts of Tamil Nadu by defeating the last Pallava king, Aparajitavarman.</p></div>
+
+			<div class="l1 m1 s1">
+			<div class= "third"> THIRD </div>
+			<p>During the 16th century, the Chola dynasty was once again revived by Vijayalaya Chola, who established Thanjavur as Chola's new capital by conquering central Tamil Nadu from Mutharaiyar and the Pandya king Varagunavarman II. Aditya I and his son Parantaka I expanded the kingdom to the northern parts of Tamil Nadu by defeating the last Pallava king, Aparajitavarman.</p></div>
+		
+		</div>
+	</body>
+</html>
